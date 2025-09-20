@@ -1,3 +1,3 @@
 # TernurITA
 Nuestro proyecto para el Hackaton
-Ternuritas waaaaa
+
